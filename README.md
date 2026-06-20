@@ -1,2 +1,2 @@
 # web-dev-journey.
-Learning web development with python
+Learning web development 
